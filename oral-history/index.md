@@ -1,34 +1,28 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
-
-## Use headings only if you want to have subsections in your essay
-
 <div class="sidepanel">
               <!-- This is the div where all the popcorn action will hapen -->
               <div id="popcorn-container">
               </div>
             </div>
-##Introduction
 
+Radhika Kishin Chehnani speaks of her own experiences during the struggle for Independence prior to partition. She recounts how at age 10 or 11 she and other students would leave the house at six in the morning in order to march on the streets and return home before eight-thirty to be in time for class <a href="javascript:seek(72)">seek to 1:12</a>. Once she and other student activists had been captured by authorities and were taken to a remote faraway place from where they had to walk back home at night <a href="javascript:seek(94)">seek to 1:34</a>. While she tells this story, she says that there were "10 girls, and there were boys too." The male students involved in these protests were an afterthought, which is a stark contrast to masculinist historiography that privileges the male anti-colonial activist over the female one. Chehnani's interview, and her time as an anti-colonial activist, highlights the massive role women played in the nationalist struggle. Stories such as Chehnani's are important to preserve as it is the story of the woman activist which becomes nothing more than a footnote in history This is due to the particular construction of "colonial masculinity" which then defined what "anti-colonial masculinity" looked like, which ultimately excluded women. Her interview is a subtle revision of a historiography which actively excludes those like her.
 
+Women activists such as Radhika would have posed an epistemological problem for both the British administration and Indian men alike because it challenged colonial patriarchal structures. Scholars such as Mrinalini Sinha have located the construction of masculinity as a key site of contestation between the British and the Indians[^first]. Sikata Banerjee and Subho Basu argue that "on the one hand, imperialism configured its ideas of hegemonic masculinities by defining itself against a supposedly 'effeminate' colonial other, and on the other hand, the colonised subject created a masculine cultural space that resisted this feminization"[^second]. These were dependent on what it meant to be "masculine" (physically) and "manly" (ethically). Mrinalini Sinha elaborates that the perfect feminine subject was the Babu (government clerk) who stood below the "Manly" Englishman[^third]. This figure was contrasted by the "hardy, masculine, imperial British ruler"[^fourth]. This difference in normative masculinities arose because the British believed that "Indian men were conquered because they were effeminate and were seen as effeminate because they were conquered"[^fifth].
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+In response, the indigenous Indian also constructed their own understanding of what masculinity should look like through a negotiation with, and incorporation of, colonial masculinity. Banerjee and Basu, however, stress that "this incorporation did not simply reduplicate British ideas but was itself an imaginative configuration of nationalist myths and icons based on traditional cultural ideas aimed at challenging alien colonial rule"[^sixth]. As Men were being conquered in the public sphere, they relegated to the domestic sphere in order to enact their power. This in turn, led to the exclusion of women from the public sphere, and in turn from activism. Even Gandhi, whom Radhika herself holds so dear to her heart in this short interview <a href="javascript:seek(30)">seek to 0:30</a>, had questionable views on women. Sugata Bose and Ayesha Jalal argue that "Gandhi's model for Indian women was Sita, the wife of Rama, whom he interpreted to be a chaste as well as submissive woman"[^seventh]. Thus, it is surprising that Gandhi himself inspired a young Radhika to march on the streets.
 
-    Footnote 1 link[^first].
+This is not to say, however, that women did not actively participate in the struggle for independence. As Radhika's story points out, she participated in the Quit India movement from an incredibly young age and was even seen as a threat by the authorities. Defying both the domestic sphere and the public sphere, women's activism was a greater threat to the colonial state than that of men's. As the Crown Rule in India depended on a representation of the "Manly Englishman," an activist such as Radhika directly challenging their rule by partaking in nationalist demonstrations (no matter how young) would have posed a threat to their authority, closely linked to their masculinity. This is doubly so, as the early eighteenth-century saw an increase in British men attempting to "save" Indian women from patriarchy by establishing bills forbidding Sati (widow immolation) in 1829 and establishing the Widow Remarriage Act (1856)[^eighth]. Thus, the idea of a woman revolting against the British was dangerous to their rule, as it was through the ideology of the oppressed Indian woman that they were able to justify their enterprise.
 
-    Footnote 2 link[^second].
+However, despite women actively participating in the struggle for Independence, these histories are often forgotten. Masculinist nationalism delineated the Indian woman as being passive and chaste, and thus the anti-colonial woman activist also posed a problem for the modern Indian nation. This is why it is important to honour stories of resilience such as Radhika's who, from a young age, participated in demonstrations challenging the British rule in India. Ultimately, stories such as hers must be reinscribed into historiography in order to undo the masculinist histories which privilege the anti-colonial man over the woman.  
 
-    Inline footnote^[Text of inline footnote] definition.
+___
 
-    Duplicated footnote reference[^second].
+## NOTES
 
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[^first]: https://search.library.utoronto.ca/details?1256264&uuid=5fd499e0-84ae-4f0c-9078-77da4617841d
+[^second]: https://muse-jhu-edu.myaccess.library.utoronto.ca/article/207576, page 477.
+[^third]: https://search.library.utoronto.ca/details?1256264&uuid=5fd499e0-84ae-4f0c-9078-77da4617841d, page 2.
+[^fourth]: Ibid.
+[^fifth]: https://muse-jhu-edu.myaccess.library.utoronto.ca/article/207576, 478.
+[^sixth]: Ibid, 477.
+[^seventh]: https://search.library.utoronto.ca/details?5119780&uuid=e91f32b6-0c77-4d24-a23e-fc3ac7df62ff, 110.
+[^eighth]: https://search.library.utoronto.ca/details?1464680&uuid=1ee7f3f2-f806-4cb0-903a-22d545551d93, 92-100.
